@@ -8,3 +8,4 @@ require './lib/factory'
 include Factory
 
 require './lib/string'
+require './lib/array'
